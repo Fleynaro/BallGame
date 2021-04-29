@@ -1,0 +1,57 @@
+﻿  TDs.cpp
+  Timeline.cpp
+  DirectX.cpp
+  Entity.cpp
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(23): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(37): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\entity.cpp(14): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  Game.cpp
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(23): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(37): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\server\netgame.h(44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Items.cpp
+  Main.cpp
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(23): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(37): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\server\netgame.h(44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(184): warning C4305: '=': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(185): warning C4305: '=': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(204): warning C4305: '=': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(240): warning C4305: 'initializing': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(250): warning C4305: 'argument': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(253): warning C4305: 'argument': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(290): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(306): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(319): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(332): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(334): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(387): warning C4305: 'initializing': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(418): warning C4305: '*=': truncation from 'double' to 'float'
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\main.cpp(420): warning C4305: '*=': truncation from 'double' to 'float'
+  RemotePool.cpp
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(23): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(37): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\server\netgame.h(44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\server\remotepool.cpp(21): warning C4244: '+=': conversion from 'float' to 'TimeStamp', possible loss of data
+  NetGame.cpp
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(23): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(37): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\server\netgame.h(44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RPCs.cpp
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(23): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\model.h(37): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+r:\rockstar games\multiplayer dev\mygame\ballgame\mygame\server\netgame.h(44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FileWrapper.cpp
+  Generic.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Generating code
+  4030 of 4056 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    62 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MyGame.vcxproj -> R:\Rockstar Games\MULTIPLAYER Dev\MyGame\BallGame\x64\Release\MyGame.exe
